@@ -5,5 +5,5 @@ Welcome to the 3D Resources github site. Here you'll find a growing collection o
 
 Please read the Usage Guidelines here: 
 
-	http://www.nasa.gov/audience/formedia/features/MP_Photo_Guidelines.html
+http://www.nasa.gov/audience/formedia/features/MP_Photo_Guidelines.html
 
