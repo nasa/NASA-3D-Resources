@@ -1,0 +1,97 @@
+newmtl MKIII:MarkIII_8sizedwithoutskeleton_blinn1SG
+illum 4
+Kd 0.12 0.12 0.12
+Ka 0.00 0.00 0.00
+Tf 0.83 0.83 0.83
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl MKIII:MarkIII_8sizedwithoutskeleton_blinn2SG
+illum 4
+Kd 0.38 0.38 0.38
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl MKIII:MarkIII_8sizedwithoutskeleton_bluesteelSG
+illum 4
+Kd 0.14 0.32 0.83
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl MKIII:MarkIII_8sizedwithoutskeleton_hand_lambert2SG
+illum 4
+Kd 0.82 0.83 0.90
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl MKIII:MarkIII_8sizedwithoutskeleton_lambert2SG
+illum 4
+Kd 0.82 0.83 0.90
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl MKIII:MarkIII_8sizedwithoutskeleton_lambert3SG
+illum 4
+Kd 0.17 0.17 0.17
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl MKIII:MarkIII_8sizedwithoutskeleton_lambert4SG
+illum 4
+Kd 0.43 0.43 0.43
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl MKIII:MarkIII_8sizedwithoutskeleton_lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texturelogo.png
+Ni 1.00
+newmtl MKIII:MarkIII_8sizedwithoutskeleton_lambert6SG
+illum 4
+Kd 0.87 0.85 0.85
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl MKIII:MarkIII_8sizedwithoutskeleton_markiiitorso_lambert2SG
+illum 4
+Kd 0.82 0.83 0.90
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl MKIII:MarkIII_8sizedwithoutskeleton_steel2SG
+illum 4
+Kd 0.56 0.56 0.56
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl MKIII:MarkIII_8sizedwithoutskeleton_suitcolormappedlegsSG
+illum 4
+Kd 0.82 0.83 0.90
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl MKIII:bodyrings_blinn2SG
+illum 4
+Kd 0.38 0.38 0.38
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl MKIII:bodyrings_steelholesSG
+illum 4
+Kd 0.38 0.38 0.38
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
