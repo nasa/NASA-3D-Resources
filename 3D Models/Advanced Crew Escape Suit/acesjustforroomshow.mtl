@@ -1,0 +1,92 @@
+newmtl acesjustforroomshow:ACES_INTERIOR_OBJ_ACES8_sized_aceshelmet_emusuit5_blinn2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl acesjustforroomshow:ACES_INTERIOR_OBJ_ACES8_sized_aceshelmet_emusuit5_lambert2SG
+illum 4
+Kd 0.93 0.93 0.93
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl acesjustforroomshow:ACES_INTERIOR_OBJ_ACES8_sized_aceshelmet_initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl acesjustforroomshow:ACES_INTERIOR_OBJ_ACES8_sized_anisotropic1SG
+illum 4
+Kd 0.31 0.31 0.31
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl acesjustforroomshow:ACES_INTERIOR_OBJ_ACES8_sized_blinn1SG
+illum 4
+Kd 0.25 0.25 0.25
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl acesjustforroomshow:ACES_INTERIOR_OBJ_ACES8_sized_blinn2SG
+illum 4
+Kd 0.90 0.90 0.90
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl acesjustforroomshow:ACES_INTERIOR_OBJ_ACES8_sized_blinn3SG
+illum 4
+Kd 0.69 0.25 0.11
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl acesjustforroomshow:ACES_INTERIOR_OBJ_ACES8_sized_lambert3SG
+illum 4
+Kd 0.79 0.25 0.08
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl acesjustforroomshow:ACES_INTERIOR_OBJ_ACES8_sized_lambert4SG
+illum 4
+Kd 0.95 0.95 0.95
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl acesjustforroomshow:ACES_INTERIOR_OBJ_ACES8_sized_lambert5SG
+illum 4
+Kd 0.07 0.19 0.47
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl acesjustforroomshow:ACES_INTERIOR_OBJ_ACES8_sized_lambert6SG
+illum 4
+Kd 0.07 0.07 0.07
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl acesjustforroomshow:ACES_INTERIOR_OBJ_ACES8_sized_lambert8SG
+illum 4
+Kd 0.72 0.02 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl acesjustforroomshow:ACES_INTERIOR_OBJ_ACES8_sized_shoe_lambert3SG
+illum 4
+Kd 0.17 0.17 0.17
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl acesjustforroomshow:ACES_INTERIOR_OBJ_ACES8_sized_shoe_lambert4SG
+illum 4
+Kd 0.72 0.72 0.72
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
