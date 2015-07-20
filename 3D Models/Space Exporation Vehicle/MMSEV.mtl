@@ -1,0 +1,11 @@
+# OBJ written from NASA LaRC Advanced Concepts Lab (ACL)
+newmtl MMSEV
+Kd 0.8 0.8 0.8
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+map_Kd ./MMSEV_Color_v2s.png
+map_Ks ./MMSEV_spec_color_v1s.png
+map_Bump ./MMSEV_Bump_v1s.png
