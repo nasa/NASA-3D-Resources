@@ -1,0 +1,16 @@
+{
+"title": "NASA-3D-Resources", 
+"visibility": "public", 
+"type": "GIT", 
+"description": "collection of 3D models, textures, and images from inside NASA", 
+"url": "https://github.com/nasa/NASA-3D-Resources",
+"repo": "nasa/NASA-3D-Resources",
+"missions":["OCIO", "ARC", "Code I"], 
+"categories": ["NASA", "Open Data", "Models", "3d Printing"], 
+"languages": [],
+"operating_systems": ["Linux", "Windows", "Unix", "Mac"],  
+"poc": "ARC Special Projects", 
+"poc_mbox": " arc-special-proj@lists.nasa.gov", 
+"license": "NASA Open Source Agreement Version 1.3", 
+"software_types": ["3D Models", "3D Printing", "Graphics", "Assets"]
+}
