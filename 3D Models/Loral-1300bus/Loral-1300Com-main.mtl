@@ -1,0 +1,776 @@
+newmtl Afta-black-sm
+Kd 0.0848894 0.0848925 0.0848908
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.11 0.11 0.11
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Afta-blackout
+Kd 0 0 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Afta-blackout2
+Kd 0 0 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Afta-bridgework-bronze
+Kd 0.714126 0.644134 0.465127
+Ke 0 0 0
+Ka 0.2 0.2 0.2
+Ks 0.73 0.73 0.73
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Afta-bridgework-silver
+Kd 0.363395 0.356138 0.34524
+Ke 0 0 0
+Ka 0.95 0.95 0.95
+Ks 0.695 0.695 0.695
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_bump Textures/bumptestexcerpt4-big.tga
+bump Textures/bumptestexcerpt4-big.tga
+
+newmtl Afta-grey1-sm
+Kd 0.471335 0.462205 0.448496
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.725 0.725 0.725
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_bump Textures/bumptestexcerpt4-big.tga
+bump Textures/bumptestexcerpt4-big.tga
+
+newmtl Afta-grey2-sm
+Kd 0.26411 0.258095 0.249057
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.725 0.725 0.725
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_bump Textures/bumptestexcerpt4-big.tga
+bump Textures/bumptestexcerpt4-big.tga
+
+newmtl Afta-grey3-sm
+Kd 0.366623 0.359309 0.348327
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.725 0.725 0.725
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_bump Textures/bumptestexcerpt4-big.tga
+bump Textures/bumptestexcerpt4-big.tga
+
+newmtl Afta-hood
+Kd 0.542812 0.533243 0.516352
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.1 0.1 0.1
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Afta-Instrument1-sm
+Kd 0.75055 0.750568 0.750559
+Ke 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_bump Textures/bumptestexcerpt4-big.tga
+bump Textures/bumptestexcerpt4-big.tga
+
+newmtl Afta-lens
+Kd 0 0 0
+Ke 0 0 0
+Ka 0 0 0
+Ks 1 1 1
+Ns 714
+Tr 0.555
+d 0.445
+Ni 1
+Tf 1 1 1
+
+newmtl Afta-rear-dish_white
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Afta-rear-disk
+Kd 0.715931 0.555209 0.279129
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.8 0.8 0.8
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_bump Textures/bumptestexcerpt4-big.tga
+bump Textures/bumptestexcerpt4-big.tga
+
+newmtl Afta-rear-diskcenter
+Kd 0.26411 0.258095 0.249057
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.73 0.73 0.73
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_bump Textures/bumptestexcerpt4-big.tga
+bump Textures/bumptestexcerpt4-big.tga
+
+newmtl Afta-rear-side-panels
+Kd 0.971952 0.971975 0.971963
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.665 0.665 0.665
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_bump Textures/white-fabric.tga
+bump Textures/white-fabric.tga
+
+newmtl Afta-schnoozle-inside
+Kd 0.0848894 0.0848925 0.0848908
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Afta-schnoozle-out
+Kd 0.26411 0.258095 0.249057
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.5 0.5 0.5
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_bump Textures/bumptestexcerpt4-big.tga
+bump Textures/bumptestexcerpt4-big.tga
+
+newmtl Afta-schnoozle-rear-out
+Kd 0.26411 0.258095 0.249057
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.5 0.5 0.5
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_bump Textures/bumptestexcerpt4-big.tga
+bump Textures/bumptestexcerpt4-big.tga
+
+newmtl Afta-silver1-fl
+Kd 0.768931 0.754639 0.733178
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.905 0.905 0.905
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_bump Textures/bumptestexcerpt4-big.tga
+bump Textures/bumptestexcerpt4-big.tga
+
+newmtl Afta-solar1
+Kd 0.226703 0.175646 0.494086
+Ke 0 0 0
+Ka 0.69 0.69 0.69
+Ks 0.92 0.92 0.92
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_bump Textures/glassmap1.jpg
+bump Textures/glassmap1.jpg
+
+newmtl Afta-solar22
+Kd 0.23269 0.192477 0.494073
+Ke 0 0 0
+Ka 0.51 0.51 0.51
+Ks 0.6 0.6 0.6
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_bump Textures/glassmap1.jpg
+bump Textures/glassmap1.jpg
+
+newmtl Afta-solar33
+Kd 0.202883 0.16482 0.494105
+Ke 0 0 0
+Ka 0.945 0.945 0.945
+Ks 1 1 1
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_bump Textures/glassmap1.jpg
+bump Textures/glassmap1.jpg
+
+newmtl Afta-solar44
+Kd 0.202883 0.16482 0.494105
+Ke 0 0 0
+Ka 0.785 0.785 0.785
+Ks 0.705 0.705 0.705
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_bump Textures/glassmap1.jpg
+bump Textures/glassmap1.jpg
+
+newmtl Afta-solar55
+Kd 0.197246 0.184363 0.494099
+Ke 0 0 0
+Ka 0.975 0.975 0.975
+Ks 0.55 0.55 0.55
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_bump Textures/glassmap1.jpg
+bump Textures/glassmap1.jpg
+
+newmtl Afta-solar66
+Kd 0.197441 0.172531 0.505798
+Ke 0 0 0
+Ka 0.825 0.825 0.825
+Ks 0.695 0.695 0.695
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_bump Textures/glassmap1.jpg
+bump Textures/glassmap1.jpg
+
+newmtl Afta-solar77
+Kd 0.202883 0.16482 0.494105
+Ke 0 0 0
+Ka 0.945 0.945 0.945
+Ks 0.945 0.945 0.945
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_bump Textures/glassmap1.jpg
+bump Textures/glassmap1.jpg
+
+newmtl Afta-solarback
+Kd 0.0469695 0.0508302 0.0428038
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.915 0.915 0.915
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd WFirst/WFirst-SolarBackPanel.png
+map_bump WFirst/WFirst-SolarBackPanel.png
+bump WFirst/WFirst-SolarBackPanel.png
+
+newmtl Afta-solartop-base
+Kd 0.091256 0.0782874 0.231076
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Afta-white_reflector
+Kd 0.999996 1 1
+Ke 0 0 0
+Ka 0.36 0.36 0.36
+Ks 0.355 0.355 0.355
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Default
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl MTL28
+Kd 0.558 0.572 0.572
+Ke 0 0 0
+Ka 0.8 0.8 0.8
+Ks 1 1 1
+Ns 0
+Tr 0
+d 1
+Ni 0
+Tf 1 1 1
+
+newmtl MTL29
+Kd 0.8 0.8 0.6
+Ke 0 0 0
+Ka 0.8 0.8 0.8
+Ks 1 1 1
+Ns 0
+Tr 0
+d 1
+Ni 0
+Tf 1 1 1
+
+newmtl MTL30
+Kd 0 0 0
+Ke 0 0 0
+Ka 0.8 0.8 0.8
+Ks 1 1 1
+Ns 0
+Tr 0
+d 1
+Ni 0
+Tf 1 1 1
+
+newmtl MTL4
+Kd 1 1 0.949
+Ke 0 0 0
+Ka 0.8 0.8 0.8
+Ks 1 1 1
+Ns 0
+Tr 0
+d 1
+Ni 0
+Tf 1 1 1
+
+newmtl MTL44
+Kd 0.2 0.4 0.4
+Ke 0 0 0
+Ka 0.8 0.8 0.8
+Ks 1 1 1
+Ns 0
+Tr 0
+d 1
+Ni 0
+Tf 1 1 1
+
+newmtl Default
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl LaserCom-DkGrey-sm
+Kd 0.411765 0.411765 0.411765
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.785 0.785 0.785
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl LaserCom-Gold-sm
+Kd 0.785417 0.549186 0.157454
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.71 0.71 0.71
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl LaserCom-MainBody
+Kd 0.119088 0.119064 0.119095
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.67 0.67 0.67
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl LaserCom-MainBody22
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl LaserCom-Silver-sm
+Kd 0.778286 0.778286 0.778286
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.87 0.87 0.87
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl LCRD-SolarPanel-sil1
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl LCRD-SolarPanel-sil2
+Kd 0.764435 0.764321 0.764465
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Main_Dish
+Kd 0.865278 0.874998 0.855558
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.28 0.28 0.28
+Ns 219
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Main_Dish-black
+Kd 0 0 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl NGTDRSS-MainBoxDetailBlack
+Kd 0.117647 0.116106 0.111482
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.88 0.88 0.88
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl NGTDRSS-MainBoxTopSensorNips
+Kd 0.709804 0.709804 0.709804
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.84 0.84 0.84
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl NGTDRSS-SolarPanel-Bracket
+Kd 0.470588 0.470588 0.470588
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.245 0.245 0.245
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl NGTDRSS-SolarPanel-black
+Kd 0.113115 0.113115 0.113115
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.84 0.84 0.84
+Ns 600
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl NGTDRSS-SolarPanel-bronze
+Kd 0.72549 0.556863 0.356863
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.22 0.22 0.22
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl NGTDRSS-SolarPanel-gold
+Kd 0.186454 0.181768 0.186814
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.22 0.22 0.22
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl NGTDRSS-SolarPanel11
+Kd 0.181262 0.213489 0.669688
+Ke 0 0 0
+Ka 0.77 0.77 0.77
+Ks 1 1 1
+Ns 800
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl NGTDRSS-SolarPanel22
+Kd 0.18941 0.258442 0.635294
+Ke 0 0 0
+Ka 0.72 0.72 0.72
+Ks 0.955 0.955 0.955
+Ns 899
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl NGTDRSS-SolarPanel33
+Kd 0.237903 0.23154 0.635294
+Ke 0 0 0
+Ka 0.805 0.805 0.805
+Ks 1 1 1
+Ns 814
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl NGTDRSS-SolarPanel44
+Kd 0.25861 0.277562 0.674205
+Ke 0 0 0
+Ka 0.735 0.735 0.735
+Ks 0.905 0.905 0.905
+Ns 660
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl NGTDRSS-SolarPanel55
+Kd 0.305333 0.284962 0.705882
+Ke 0 0 0
+Ka 0.69 0.69 0.69
+Ks 0.98 0.98 0.98
+Ns 1000
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl NGTDRSS-SolarPanel66
+Kd 0.326223 0.338033 0.705882
+Ke 0 0 0
+Ka 0.615 0.615 0.615
+Ks 1 1 1
+Ns 1000
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl NGTDRSS-SolarPanelEdges
+Kd 0.360784 0.360784 0.360784
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.99 0.99 0.99
+Ns 800
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl RBSP-Black-foil-sm
+Kd 0.0833801 0.0833607 0.0833851
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.215 0.215 0.215
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl RBSP-Black-NOfoil-sm
+Kd 0.0833801 0.0833607 0.0833851
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.205 0.205 0.205
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Stereo-Detail1-bronze
+Kd 0.547509 0.500954 0.453605
+Ke 0 0 0
+Ka 0.76 0.76 0.76
+Ks 0.91 0.91 0.91
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Stereo-Detail2-dkgrey
+Kd 0.334844 0.333379 0.329
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.495 0.495 0.495
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Stereo-Detail3-white
+Kd 0.865278 0.874998 0.855558
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.405 0.405 0.405
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Stereo-Detail3-white-fl
+Kd 0.865278 0.874998 0.855558
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.395 0.395 0.395
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Stereo-Detail4-silver
+Kd 0.670558 0.678737 0.662379
+Ke 0 0 0
+Ka 0.635 0.635 0.635
+Ks 0.805 0.805 0.805
+Ns 555
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Stereo-Detail4-silver-fl
+Kd 0.670558 0.678737 0.662379
+Ke 0 0 0
+Ka 0.63 0.63 0.63
+Ks 0.83 0.83 0.83
+Ns 555
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Stereo-Detail6-gold
+Kd 0.0038874 0.114363 0.0116409
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.395 0.395 0.395
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
