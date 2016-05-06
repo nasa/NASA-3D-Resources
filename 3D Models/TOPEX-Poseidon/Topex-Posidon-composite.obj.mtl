@@ -1,0 +1,205 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.187496374)
+
+newmtl GPMcore-SolarFaces1
+Kd 0.356863 0.321569 0.811765
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 100
+illum 2
+bump $texture.png
+map_bump $texture.png
+
+newmtl GPMcore-SolarFaces2
+Kd 0.466667 0.447059 0.862745
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 100
+illum 2
+bump $texture.png
+map_bump $texture.png
+
+newmtl GPMcore-SolarFaces3
+Kd 0.411765 0.411765 0.839216
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 100
+illum 2
+bump $texture.png
+map_bump $texture.png
+
+newmtl GPMcore-SolarFaces4
+Kd 0.415686 0.501961 0.835294
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 100
+illum 2
+bump $texture.png
+map_bump $texture.png
+
+newmtl GPMcore-SolarFaces5
+Kd 0.258824 0.368627 0.8
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 100
+illum 2
+bump $texture.png
+map_bump $texture.png
+
+newmtl GPMcore-SolarFaces6
+Kd 0.396078 0.32549 0.733333
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 100
+illum 2
+bump $texture.png
+map_bump $texture.png
+
+newmtl GPMcore-SolarFaces7
+Kd 0.4 0.423529 0.733333
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 100
+illum 2
+bump $texture.png
+map_bump $texture.png
+
+newmtl GPMcore-SolarFaces8
+Kd 0.403922 0.501961 0.729412
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 100
+illum 2
+bump $texture.png
+map_bump $texture.png
+
+newmtl Topex-Black
+Kd 0.097734 0.097734 0.097734
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+
+newmtl Topex-Black-sm
+Kd 0.097734 0.097734 0.097734
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+
+newmtl Topex-Gold-endcap
+Kd 0.698039 0.487541 0.140314
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+bump christek-silo/Images/Textures/bumptestexcerpt.tga
+map_bump christek-silo/Images/Textures/bumptestexcerpt.tga
+
+newmtl Topex-Gold2-fl
+Kd 0.72549 0.506714 0.145832
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+bump christek-silo/Images/Textures/bumptestexcerpt.tga
+map_bump christek-silo/Images/Textures/bumptestexcerpt.tga
+
+newmtl Topex-Gold3-sm
+Kd 0.709804 0.495758 0.142679
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+bump christek-silo/Images/Textures/bumptestexcerpt.tga
+map_bump christek-silo/Images/Textures/bumptestexcerpt.tga
+
+newmtl Topex-Gold4-solar
+Kd 0.717647 0.501236 0.144255
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+bump christek-silo/Images/Textures/bumptestexcerpt.tga
+map_bump christek-silo/Images/Textures/bumptestexcerpt.tga
+
+newmtl Topex-Grey-fl
+Kd 0.439307 0.43508 0.466056
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+
+newmtl Topex-MainBody-Gold-fl
+Kd 0.784314 0.547799 0.157656
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+bump christek-silo/Images/Textures/bumptestexcerpt.tga
+map_bump christek-silo/Images/Textures/bumptestexcerpt.tga
+
+newmtl Topex-MainBody-White-fl
+Kd 0.868772 0.868772 0.868772
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+
+newmtl Topex-Silver
+Kd 0.370588 0.35765 0.367352
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 132.25
+illum 2
+
+newmtl Topex-Silver-sm
+Kd 0.384706 0.371275 0.381346
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 124.323
+illum 2
+
+newmtl Topex-solar-bak
+Kd 0.0996414 0.218997 0.411765
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+
+newmtl Topex-White-fl
+Kd 0.865827 0.857481 0.918547
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+
+newmtl Topex-White-sm
+Kd 0.865827 0.857481 0.918547
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 36
+illum 2
+
