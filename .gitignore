@@ -1,0 +1,3 @@
+# macOS specific files
+__MACOSX
+.DS_Store
