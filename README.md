@@ -55,5 +55,5 @@ Carlo Conti
 
 
 
-## Other Resources
+## Other Resources for NASA 3D Models
 - https://nasa3d.arc.nasa.gov/
