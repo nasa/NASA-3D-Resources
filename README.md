@@ -5,7 +5,7 @@ Welcome to the 3D Resources github site. Here you'll find a growing collection o
 
 Please read the Usage Guidelines here: 
 
-http://www.nasa.gov/audience/formedia/features/MP_Photo_Guidelines.html
+https://www.nasa.gov/multimedia/guidelines/index.html
 
 Our team's goal is to provide a one-stop shop for 3D models, images, textures, and visualizations. We offer these assets for your use, free and without copyright. We recognize that the site is only as good as its contributors and thank them kindly.
 
