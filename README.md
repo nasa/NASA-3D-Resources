@@ -13,46 +13,26 @@ We welcome feedback and comments. Tell us how you're using our models, and let u
 
 We acknowledge and thank the many authors who have contributed to the 3D Resources collections.
 
-NASA Jet Propulsion Laboratory - Solar System Simulator	
-
-Michael Carbajal. NASA Headquarters	
-
-NASA Ames Research Center	
-
-Brian Kumanchik, Christian Lopez. NASA/JPL-Caltech	
-
-NASA Johnson Space Center	
-
-DigitalSpace Corporation	
-
-Eyes on the Solar System. NASA/JPL-Caltech	
-
-Doug Ellison / NASA-JPL	
-
-Christopher M. Garcia. NASA/JPL-Caltech	
-
-Christian A. Lopez. NASA/JPL-Caltech	
-
-Kevin Lane. NASA/JPL-Caltech	
-
-NASA Jet Propulsion Laboratory	
-
-NASA Goddard Space Flight Center
-	
-NASA Johnson Space Center - Space Educators' Handbook	
-
-Chris Meaney. NASA	
-
-Ball Aerospace	
-
-Dana Berry. NASA/Kepler Mission	
-
-NASA/JPL-Caltech	
-
-Christopher M. Garcia, Christian A. Lopez. NASA/JPL-Caltech	
-
-Carlo Conti	
-
+* NASA Jet Propulsion Laboratory - Solar System Simulator	
+* Michael Carbajal. NASA Headquarters	
+* NASA Ames Research Center	
+* Brian Kumanchik, Christian Lopez. NASA/JPL-Caltech	
+* NASA Johnson Space Center	
+* DigitalSpace Corporation	
+* Eyes on the Solar System. NASA/JPL-Caltech	
+* Doug Ellison / NASA-JPL	
+* Christopher M. Garcia. NASA/JPL-Caltech	
+* Christian A. Lopez. NASA/JPL-Caltech	
+* Kevin Lane. NASA/JPL-Caltech	
+* NASA Jet Propulsion Laboratory	
+* NASA Goddard Space Flight Center
+* NASA Johnson Space Center - Space Educators' Handbook	
+* Chris Meaney. NASA	
+* Ball Aerospace	
+* Dana Berry. NASA/Kepler Mission	
+* NASA/JPL-Caltech	
+* Christopher M. Garcia, Christian A. Lopez. NASA/JPL-Caltech	
+* Carlo Conti	
 
 
 ## Other Resources for NASA 3D Models
