@@ -1,3 +1,0 @@
-Note from the Author: Depending on 3d printer software used, the model may come out laying flat instead of standing up. 
-
-Would highly recommend printing with model standing up and with supports on for the base. Depending on what scale the model is printed at, lower SRB to Core Stage struts might be underprinted, and same can happen with the LAS. May do something about that in the future, but for now I was trying to maintain original features. 
